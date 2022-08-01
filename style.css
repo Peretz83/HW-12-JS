@@ -1,0 +1,9 @@
+#countryList{
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  margin:10px auto;
+  }
+  body{
+    background-image: url(/background-texture-2110724_960_720.jpeg);
+  }
